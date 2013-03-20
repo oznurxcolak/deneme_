@@ -1,0 +1,4 @@
+deneme_
+=======
+
+deneme çalışması 
