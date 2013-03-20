@@ -1,4 +1,4 @@
 deneme_
 =======
 
-deneme çalışması 
+deneme çalışması
